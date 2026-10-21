@@ -1,0 +1,6 @@
+{
+  "name": "BioLiving — Sustainable Bioplastics & Education",
+  "description": "Platform e-commerce dan edukasi bioplastik ramah lingkungan berbasis pemanfaatan limbah organik (Sustainable Urban Development Project - SUDP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
