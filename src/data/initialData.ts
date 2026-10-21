@@ -1,11 +1,11 @@
 import { Product, EducationArticle, Order, User } from '../types';
 
-export const HERO_IMAGE = '/src/assets/images/hero.jpg';
-export const SHOPPING_BAG_IMAGE = '/src/assets/images/tas.jpg';
-export const POUCH_IMAGE = '/src/assets/images/pouch.jpg';
-export const ID_HOLDER_IMAGE = '/src/assets/images/idcard.png';
-export const LAMPSHADE_IMAGE = '/src/assets/images/lampu.jpg';
-export const LOGO_IMAGE = '/src/assets/images/logo.jpg';
+import HERO_IMAGE from '../assets/images/hero.jpg';
+import SHOPPING_BAG_IMAGE from '../assets/images/tas.jpg';
+import POUCH_IMAGE from '../assets/images/Pouch.jpg';
+import ID_HOLDER_IMAGE from '../assets/images/idcard.png';
+import LAMPSHADE_IMAGE from '../assets/images/lampu.jpg';
+import LOGO_IMAGE from '../assets/images/logo.jpg';
 
 export const INITIAL_PRODUCTS: Product[] = [
   {
